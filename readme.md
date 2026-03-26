@@ -1,10 +1,8 @@
-## Repository Notice
+# Repository Moved
 
-This repository is the maintained version of the project.
+This project has moved to:
 
-If you arrived here from the old repository:
+**https://github.com/shenwxlab/FPPool**
 
-- Old repository: `https://github.com/xiaocui3737/FPPooling`
-- Current repository: `https://github.com/shenwxlab/FPPool`
-
-Please use this repository for the latest code and updates.
+This repository is no longer maintained.
+Please use the new repository for the latest code and updates.
